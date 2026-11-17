@@ -1,16 +1,29 @@
-## Hi there 👋
+## Сайн уу, Зулаа байна! 👋
 
-<!--
-**ZulaaMunkhtsooj236/ZulaaMunkhtsooj236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Шинжлэх Ухаан Технологийн Их Сургууль (ШУТИС - МХТС)**-ийн Программ хангамжийн инженерчлэлийн 2-р курсийн оюутан.  
+💻 Программ хангамж хөгжүүлэлт, алгоритм болон цэгцтэй вэб аппликейшн бүтээх чиглэлээр суралцаж, өөрийгөө хөгжүүлж байна.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Эзэмшиж буй ур чадвар ба хэрэгслүүд
+- **Программчлалын хэл:** Java, C, C++, Python
+- **Вэб хөгжүүлэлт:** HTML5, CSS3
+- **Өгөгдлийн сан:** MySQL, SQL Server
+- **Хөгжүүлэлтийн хэрэгсэл:** Git, GitHub, GitLab, VS Code, BlueJ
+
+---
+
+### 🚀 Одоо судлаж буй хичээл
+- 🌱 **Өгөгдлийн бүтэц ба Алгоритм**, **Мэргэжлийн удиртгал**, **Өгөгдлийн сангийн систем**,  **ПХИҮ**.
+- 🌸 Багийн гишүүдтэйгээ хамтран HTML/CSS болон Git ашиглан **Цэцгийн дэлгүүрийн онлайн худалдааны вэб сайт** хөгжүүлж байна.
+
+---
+### 🚀 Одоогоор хийж буй зүйлсийн жоохон хэсгээс
+- 🌸 Багийн гишүүдтэйгээ хамтран HTML/CSS болон Git ашиглан **Цэцгийн дэлгүүрийн онлайн худалдааны вэб сайт** хөгжүүлж байна.
+- Cудалганы багт хамрагдан судалдаа хийж байгаа
+
+---
+
+### 📫 Холбоо барих
+- **GitHub:** [@ZulaaMunkhtsooj236](https://github.com/ZulaaMunkhtsooj236)
+- **Имэйл:** *zulaamunkhtsooj236@gmail.com*
